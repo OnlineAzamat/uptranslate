@@ -40,9 +40,9 @@ const Navbar = () => {
             {t('about')}
           </li>
         </Link>
-        <Link to="https://from-to.uz" target="blank" className={"navbar-item"}>
+        <Link to="https://from-to.io" target="blank" className={"navbar-item"}>
           <li style={{ display: "flex", alignItems: "center", gap: "0.3rem" }}>
-            from-to.uz
+            from-to.io
             <Launch sx={{ fontSize: "1rem", marginLeft: "2px" }}/>
           </li>
         </Link>
